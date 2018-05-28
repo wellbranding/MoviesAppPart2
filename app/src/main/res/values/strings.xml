@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">MoviesAppPart2</string>
+    <string name="title_activity_main2">Main2Activity</string>
+    <string name="api_key">YOUR API KEY</string>
+    <string name="Votes_avg">Votes avg &#160;</string>
+    <string name="Release">Release &#160;</string>
+    <string name="image_parse_error">Could not parse image…</string>
+    <string name="data_parse_error">Could not parse data…</string>
+    <string name="image_load_picasso_size">http://image.tmdb.org/t/p/w185/</string>
+    <string name="movies_load_error">Could not load movies…</string>
+    <string name="tab_text_1">Tab 1</string>
+    <string name="tab_text_2">Tab 2</string>
+    <string name="tab_text_3">Tab 3</string>
+    <string name="tab1_title">Details</string>
+    <string name="tab2_title">Reviews</string>
+    <string name="tab3_title">Trailers</string>
+
+</resources>
